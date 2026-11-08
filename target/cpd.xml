@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd xmlns="https://pmd-code.org/schema/cpd-report"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         pmdVersion="7.3.0"
+         timestamp="2026-11-08T18:12:18.2022635-05:00"
+         version="1.0.0"
+         xsi:schemaLocation="https://pmd-code.org/schema/cpd-report https://pmd.github.io/schema/cpd-report_1_0_0.xsd">
+   <file path="C:\Users\leidy\OneDrive\Documentos\NetBeansProjects\MetricasJava\src\main\java\com\mycompany\metricasjava\Pedidos.java"
+         totalNumberOfTokens="206"/>
+</pmd-cpd>
